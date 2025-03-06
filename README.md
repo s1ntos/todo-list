@@ -4,7 +4,7 @@
 
 ## 📌 Descrição
 
-Este projeto é uma API desenvolvida para criar, ler, atualizar, deleta tarefas. Atualmente, a API está em fase de desenvolvimento e novas funcionalidades estão sendo implementadas.
+Este projeto é uma API desenvolvida para criar, ler, atualizar e deleta tarefas. Atualmente, a API está em fase de desenvolvimento e novas funcionalidades estão sendo implementadas.
 
 ## 🚀 Tecnologias Utilizadas
 
