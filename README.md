@@ -17,17 +17,21 @@ Este projeto é uma API desenvolvida para criar, ler, atualizar e deleta tarefas
 ## 📂 Estrutura atual do Projeto
 
 ```
-/backend
-  ├── node_modules
-  ├── src
-  │   ├── models
-  │   ├── app.js
-  │   ├── router.js
-  │   ├── server.js
-  ├── package.json
-  ├── package-lock.json
-  ├── .gitignore
-  ├── README.md
+backend/
+│── src/
+│   ├── controllers/
+│   │   ├── tasksController.js
+│   ├── models/
+│   │   ├── connection.js
+│   │   ├── tasksModel.js
+│   ├── app.js
+│   ├── router.js
+│   ├── server.js
+│── .env.example
+│── .gitignore
+│── package.json
+│── package-lock.json
+│── README.md
 ```
 
 ## 📌 Funcionalidades
